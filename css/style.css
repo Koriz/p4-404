@@ -1,0 +1,56 @@
+/* body { 
+  margin: 0 auto;
+  width: 50%;
+}
+*/
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    background
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Julius Sans One', sans-serif;
+}
+p {
+  text-align: center;
+  color: white;
+  font-family: 'Julius Sans One', sans-serif;
+}
+div {
+  background: white;
+  padding-top: 0.25em;
+  padding-bottom: 2.25em;
+}
+
+a {
+  color: white;
+}
+.char1{
+  color: #aaaaaa;
+  font-size: 4em;
+  letter-spacing: -55.5px;
+  font-family: 'Fjalla One', sans-serif;
+  }
+.char2 {
+  margin: .5em;
+  font-size: 3.25em;
+  color: #EF3D21;
+  letter-spacing: -63.5px;
+}
+.char3{
+  color: #aaaaaa;
+  font-size: 4em;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+body {
+  background: black;
+}
+
+
+
